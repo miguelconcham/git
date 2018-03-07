@@ -7,4 +7,5 @@ sjdlakjdlaskjdlakjdsflakjdfhlakjsdaf porquéeeeeee
 =======
 sjdlakjdlaskjdlakjdsflakjdfhlakjsdaf
 nuevos cambios de worldrev
->>>>>>> worldrev
+>>>>>>> worldre
+MASTER QUIERE CAMBIAR TAMBIEN
