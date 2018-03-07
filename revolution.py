@@ -1,2 +1,3 @@
 sadasdsdasdasdasd
-continuemos la revolución
+continuemos la revolució
+el master no aprueba la revolución
